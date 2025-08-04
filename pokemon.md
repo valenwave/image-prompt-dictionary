@@ -1,6 +1,6 @@
 # Pokemon
 
-## [Rock Eevee]
+## [Geode]
 
 ### 🎯 Subject Identification
 * **Subject:** Crystalline Geode Fox
@@ -10,6 +10,7 @@
 ### 🔬 Deconstructed Analysis
 * **Core Concept:** A terrestrial, fox-like elemental creature whose body is formed from interlocking rock plates and studded with raw, crystalline geodes.
 * **Anatomy & Form:** The creature possesses a classic vulpine quadrupedal form. It features disproportionately large, pointed ears and a bushy, powerful tail, both constructed from segmented rock plates. The body is sturdy and grounded. Its face is compact with large, intense eyes. A thick ruff of fur-like, lighter-colored material encircles its neck.
+* **Size:** The creature is large enough that an adult human can ride on.
 * **Material & Texture:** The primary body surface has a rough, cracked texture like dry earth or sandstone. Emerging from its back, head, and tail are sharp, faceted crystals with a dark blue, translucent quality, resembling sapphire or sodalite geodes. The neck ruff has a softer, fibrous texture, almost like petrified wood grain or fine plumage. The eyes are molten and emissive, like glowing amber or lava.
 * **Color Palette:** A foundation of earthy tones: various shades of brown, tan, and beige. This is accented by the deep, saturated blues and near-blacks of the crystals. The most vibrant accent is the fiery, incandescent orange of the eyes. The scene is bathed in the warm yellows and oranges of a sunset.
 * **Attachments & Gear:** None. The crystalline growths are integrated, organic parts of the creature's body.
