@@ -1,4 +1,4 @@
-# Items
+# Bottles
 
 ## [Blue Bottle]
 
