@@ -46,3 +46,26 @@
 * **Alternate Keywords:** `anime protagonist, spiky hair, two-tone hair, black and red hair, red eyes, defiant, confident, arms crossed, hoodie, track jacket, athletic wear, edgy, cool, handsome, shonen`
 * **Style Modifiers:** `light novel cover art, visual novel sprite, key animation frame, cel-shaded, digital painting, style of Ufotable, style of Studio Pierrot, webtoon style, 3D anime render`
 * **Negative Prompts (Optional):** `blurry, jpeg artifacts, poorly drawn, bad anatomy, deformed hands, extra limbs, watermark, text, signature, cartoon, 3D, realistic`
+
+## [Canvas Riding Geode Scene]
+
+### 🎯 Subject Identification
+* **Subject:** Crystal-Carapace Fox
+* **Classification:** Creature
+* **Justification:** The creature is the most imaginative and visually dominant element, defining the fantastical nature of the entire scene with its unique geological design.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** A colossal, rideable fox-like golem, composed of earth and crystal, serving as an elemental beast of burden or a magical familiar.
+* **Anatomy & Form:** Powerful vulpine/lupine build with a sturdy, quadrupedal stance. Features multiple large, bushy tails reminiscent of a kitsune. The head is defined by large, expressive, pointed ears and a strong snout. The body is covered in segmented, plate-like armor made of rock.
+* **Material & Texture:** The main body has the texture of cracked, weathered **sandstone** or packed earth, giving it a rough, geological appearance. Large, sharp, multifaceted **cobalt blue crystals** protrude from its head, back, and tails. A thick, soft **white fur ruff** encircles its neck and chest. The eyes are like molten gold, glowing with an intense **fiery energy** that emits small, flame-like wisps.
+* **Color Palette:** Dominated by earthy **browns, tans, and beige** for the body. The primary accent color is a vibrant, saturated **cobalt and sapphire blue** for the crystals. This is complemented by a secondary palette of **off-white and cream** for the fur and a bright, emissive **fiery orange and yellow** for the eyes.
+* **Attachments & Gear:** [Saddled]
+* **Artistic Style:** High-definition **digital painting** in a modern **anime/manga style**. It features clean line art, smooth color gradients, and meticulous detail, akin to character concept art or a video game splash screen.
+* **Lighting:** Warm, golden hour lighting originating from the setting sun (off-screen right). This creates soft highlights on the right side of the subject and casts gentle shadows. The creature's eyes are a key internal light source, casting a warm, orange glow on its own snout.
+* **Composition:** The subject is captured in a **three-quarter view medium shot**, positioned centrally. The pose is majestic and static, conveying a sense of immense power and patience against a desert canyon backdrop.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** masterpiece, best quality, concept art of a colossal magical fox creature mount, body made of cracked sandstone plates, large cobalt blue crystals growing from its back and multi-tailed kitsune tail, thick white fur ruff around its neck, [Flame Eyes], ridden by a young man, standing in a vast desert canyon at sunset, warm golden lighting, high-detail anime style, splash screen.
+* **Alternate Keywords:** `elemental beast, crystal golem, geode wolf, sandstone kitsune, magical familiar, earth spirit, colossal mount, crystalline armor, magma eyes, summon`
+* **Style Modifiers:** `photorealistic, fantasy oil painting, 3D character render (Octane), cel shaded, Studio Ghibli style, ink wash, Final Fantasy concept art`
+* **Negative Prompts (Optional):** `deformed, blurry, poorly drawn, extra limbs, disproportionate, cartoon, low resolution, malformed crystals, human face on fox`
