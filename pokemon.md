@@ -56,7 +56,7 @@
 
 ### 🔬 Deconstructed Analysis
 * **Core Concept:** A colossal, rideable fox-like golem, composed of earth and crystal, serving as an elemental beast of burden or a magical familiar.
-* **Anatomy & Form:** Powerful vulpine/lupine build with a sturdy, quadrupedal stance. Features multiple large, bushy tails reminiscent of a kitsune. The head is defined by large, expressive, pointed ears and a strong snout. The body is covered in segmented, plate-like armor made of rock.
+* **Anatomy & Form:** Powerful vulpine/lupine build with a sturdy, quadrupedal stance. Features multiple large, single bushy tail reminiscent of a kitsune. The head is defined by large, expressive, pointed ears and a strong snout. The body is covered in segmented, plate-like armor made of rock.
 * **Material & Texture:** The main body has the texture of cracked, weathered **sandstone** or packed earth, giving it a rough, geological appearance. Large, sharp, multifaceted **cobalt blue crystals** protrude from its head, back, and tails. A thick, soft **white fur ruff** encircles its neck and chest. The eyes are like molten gold, glowing with an intense **fiery energy** that emits small, flame-like wisps.
 * **Color Palette:** Dominated by earthy **browns, tans, and beige** for the body. The primary accent color is a vibrant, saturated **cobalt and sapphire blue** for the crystals. This is complemented by a secondary palette of **off-white and cream** for the fur and a bright, emissive **fiery orange and yellow** for the eyes.
 * **Attachments & Gear:** [Saddled]
