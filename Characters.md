@@ -49,7 +49,7 @@
 * **Style Modifiers:** `oil painting by John Singer Sargent, concept art, fantasy illustration, Artgerm style, WLOP, cinematic photo, 3D render, Octane render, anime key visual.`
 * **Negative Prompts (Optional):** `blurry, bad anatomy, deformed, disfigured hands, jpeg artifacts, low quality, cartoon, 3d, ugly, watermark, signature.`
 
-## Sophia
+## [Sophia]
 
 ### 🎯 Subject Identification
 * **Subject:** "The Sapphire Scholar"
@@ -75,3 +75,38 @@
 * **Alternate Keywords:** `silver hair, blue hair, librarian, scholar, magical, ethereal, porcelain skin, ornate jewelry, sapphire gemstone, filigree, choker, eyeglasses, direct gaze, fantasy character, headshot, bust shot, bokeh, radiant, elegant.`
 * **Style Modifiers:** `anime key visual, oil painting, watercolor illustration, Art Nouveau, cel-shaded, 3D render (Octane), charcoal sketch, gothic fantasy, cyberpunk.`
 * **Negative Prompts (Optional):** `blurry, deformed, ugly, bad anatomy, extra limbs, disfigured, poorly drawn face, text, signature, watermark, low resolution.`
+
+## [Clover]
+
+### 🎯 Subject Identification
+* **Subject:** "Silver-Haired Vindicator"
+* **Classification:** [Character]
+* **Justification:** The image is a character portrait with a singular, clear subject whose intricate design and confident pose make her the undeniable focus.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** A hyperrealistic portrait of a young woman with a modern, edgy biker-punk aesthetic, blending rebellious fashion with delicate features.
+* **Anatomy & Form:** Slender, athletic build with a defined midriff. Features characteristic of East Asian ethnicity. Large, expressive dark brown eyes, a small nose, and full lips. Her face is framed by fine, wispy strands of hair.
+* **Material & Texture:**
+    * **Jacket/Pants:** Classic black leather with a semi-gloss finish, showing subtle grain and creases. Accented with reflective, slightly worn silver metal zippers, studs, and D-rings.
+    * **Tops:** A matte black fabric tube top layered over a sheer, fine mesh fabric panel. Thin, elastic straps wrap around her waist.
+    * **Hair:** Straight, silvery-white hair that appears soft and fine-textured.
+    * **Skin:** Smooth, pale, and porcelain-like with soft, realistic light diffusion.
+    * **Accessories:** A fabric headband with a white studded pattern. A black leather choker with tarnished silver hardware.
+* **Color Palette:** A largely monochromatic scheme. Dominant **jet black** and **charcoal**. Secondary **silvery-white** (hair) and **pewter/silver** (metal hardware). Accents of natural **skin tones** and a muted **rose** on the lips. The background is a neutral **cool gray-blue gradient**.
+* **Attachments & Gear:**
+    * Classic asymmetrical zip leather biker jacket.
+    * Low-rise black leather pants with a buckled belt and a hanging silver chain.
+    * Black fabric headband.
+    * Layered black choker with metallic rings and a pendant.
+    * Multiple silver hoop and stud earrings in each ear.
+    * Thin, crisscrossing black straps (garter-like) around the waist and hips.
+    * Silver rings on her fingers.
+* **Artistic Style:** Hyperrealistic digital painting or high-fidelity 3D render. Exhibits extreme detail, smooth gradients, and perfect lighting, reminiscent of top-tier character concept art found on ArtStation.
+* **Lighting:** Soft, diffused studio lighting. The key light is positioned high and to the model's left, creating gentle highlights on her hair, face, and the contours of the leather jacket. There is a soft fill light from the front, ensuring no details are lost in shadow.
+* **Composition:** A centered medium-long shot (cowboy shot) focusing on the character from the upper thighs to the top of her head. She is posed front-facing with a slight head tilt, projecting a look of cool confidence directly at the viewer.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** `hyperrealistic digital portrait of a beautiful young east asian woman with fine silver-white hair, edgy e-girl biker aesthetic, wearing a detailed black leather moto jacket, black tube top with sheer mesh panel, strappy waist harness, and black leather pants with chains, black studded headband, leather choker with silver hardware, soft studio lighting, intricate details, flawless skin, masterpiece, ArtStation character concept art`
+* **Alternate Keywords:** `silver hair, white hair, leather jacket, biker girl, punk rock, e-girl, midriff, strappy top, choker, chains, moto jacket, hyperrealism, confident gaze, athletic build`
+* **Style Modifiers:** `cyberpunk 2077, anime key visual, cel-shaded, graphic novel ink style, oil painting, sketch, fantasy character, gritty realism, fashion photography`
+* **Negative Prompts (Optional):** `blurry, deformed, ugly, poorly drawn hands, extra limbs, disfigured, cartoon, 3d, watermark, text`
