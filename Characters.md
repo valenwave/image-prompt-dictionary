@@ -23,6 +23,43 @@
 * **Style Modifiers:** `light novel cover art, visual novel sprite, key animation frame, cel-shaded, digital painting, style of Ufotable, style of Studio Pierrot, webtoon style, 3D anime render`
 * **Negative Prompts (Optional):** `blurry, jpeg artifacts, poorly drawn, bad anatomy, deformed hands, extra limbs, watermark, text, signature, cartoon, 3D, realistic`
 
+## [Ava]
+
+### 🎯 Subject Identification
+* **Subject:** The Gemstone Savant
+* **Classification:** Character
+* **Justification:** The character is the undeniable focal point, centrally composed with high-contrast lighting and intricate details that draw the viewer's immediate attention.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** An elegant and intelligent aristocratic woman, possibly a mage or a master jeweler, characterized by her striking silver hair, piercing blue eyes, and possession of a large, luminous gemstone.
+* **Anatomy & Form:** Youthful female with a slender, heart-shaped face. Features include a defined jawline, full pink lips, a delicate nose, and high cheekbones. Her eyes are a prominent feature: large, almond-shaped, and a vibrant, almost glowing, sapphire blue. Her hair is a voluminous, wavy silver-white bob, meticulously coiffed with soft curls framing her face.
+* **Material & Texture:**
+    * **Hair:** Silky and soft, with individual strands reflecting light, giving it a metallic sheen.
+    * **Skin:** Flawless and smooth, like porcelain, with a soft matte finish.
+    * **Fabric:** The dress appears to be a fine white cotton or silk with delicate, semi-transparent lace at the neckline. The choker is made of a wide, black satin or velvet ribbon.
+    * **Metal:** The glasses frames and all jewelry settings are made of polished, reflective yellow gold.
+    * **Gems:** The blue gems (sapphires) are faceted, clear, and brilliantly cut. The large green gem (emerald) is egg-shaped, multi-faceted, and appears to be internally lit, casting its own light.
+* **Color Palette:**
+    * **Dominant:** Silver-white (hair), black (choker, background).
+    * **Secondary:** Vibrant sapphire blue (eyes, jewelry), emerald green (large gem).
+    * **Accent:** Polished gold (jewelry, glasses), porcelain skin tones, soft pink (lips).
+* **Attachments & Gear:**
+    * **Eyewear:** Delicate, circular, gold-rimmed spectacles.
+    * **Jewelry:** A comprehensive set including:
+        * Gold-set sapphire teardrop earrings.
+        * A wide black satin choker featuring a large, ornate centerpiece: a central oval sapphire in a gold filigree setting, topped with a black gem and a black ribbon bow.
+        * Dangling from the choker's centerpiece are layered gold chains culminating in a smaller teardrop sapphire pendant.
+    * **Held Object:** A large, egg-shaped, perfectly faceted emerald that glows from within.
+* **Artistic Style:** Hyper-realistic, polished digital painting. It aligns with high-fantasy character art, exhibiting traits seen in works on ArtStation, with smooth airbrushed skin and hyper-detailed, sharp elements in the hair, eyes, and jewelry.
+* **Lighting:** Dramatic and complex. A soft key light illuminates the subject from the front-left. The large green emerald acts as a secondary light source, casting a vibrant green caustic glow onto her hand and the right side of her dress. Her eyes possess a subtle, internal bioluminescence. The overall effect against the dark background is a form of chiaroscuro, creating depth and focus.
+* **Composition:** A tight bust-up portrait. The subject is centrally framed, looking directly at the viewer with a calm, neutral expression. This direct gaze creates an intimate and engaging connection.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** Masterpiece character portrait of an elegant aristocratic woman with voluminous wavy silver-white hair and piercing glowing sapphire-blue eyes, wearing thin gold-rimmed glasses. She is adorned with an ornate black satin choker holding a large sapphire and gold brooch, with matching earrings. She holds a large, internally glowing, faceted emerald egg. Hyper-realistic digital painting, intricate details, soft dramatic lighting, chiaroscuro, trending on ArtStation.
+* **Alternate Keywords:** `silver hair`, `white hair`, `glowing blue eyes`, `spectacles`, `aristocrat`, `noblewoman`, `sorceress`, `jeweler`, `satin choker`, `ornate brooch`, `sapphire`, `emerald egg`, `luminous gem`, `porcelain skin`, `fantasy portrait`.
+* **Style Modifiers:** `oil painting`, `concept art`, `Final Fantasy character design`, `by WLOP`, `Unreal Engine 5 render`, `cel-shaded anime style`, `Art Nouveau illustration`, `photorealistic`.
+* **Negative Prompts (Optional):** `blurry, deformed, ugly, disfigured face, asymmetrical eyes, poorly drawn hands, extra fingers, plastic look, low detail, watermark, signature.`
+
 ## [Cassie]
 
 ### 🎯 Subject Identification
