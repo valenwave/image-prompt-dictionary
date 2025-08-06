@@ -1,4 +1,4 @@
-# Pokemon
+# Geode
 
 ## [Geode]
 
@@ -24,28 +24,6 @@
 * **Style Modifiers:** `3D render, octane render, cel-shaded, anime key visual, watercolor illustration, charcoal sketch, sculpture, claymation`
 * **Negative Prompts (Optional):** `blurry, cartoon, deformed, malformed, extra limbs, poorly drawn, flat lighting`
 
-## [Canvas]
-
-### 🎯 Subject Identification
-* **Subject:** "Crimson-Streaked Swordsman"
-* **Classification:** [Character]
-* **Justification:** The male character is the sole figure and undeniable focal point of the artwork, with all compositional and lighting elements serving to highlight him.
-
-### 🔬 Deconstructed Analysis
-* **Core Concept:** A cool and confident modern anime protagonist with an edgy design, standing in a sunlit room.
-* **Anatomy & Form:** Slim but athletic build. His face is defined by a sharp jawline and chin. His expression is serious and intense, conveyed through narrowed eyes and a neutral mouth. He is posed with his arms crossed confidently over his chest.
-* **Material & Texture:** His hair is thick and spiky with a soft, matte texture. His hoodie appears to be a smooth, synthetic athletic fabric (like a track jacket), while the underlying shirt looks like soft cotton. Skin tones are smooth with soft, blended shadows.
-* **Color Palette:** A striking triad of **black**, **white**, and **vibrant red**. The black is used for his hair, undershirt, and hoodie sleeves. White makes up the main body of the hoodie. Red serves as a powerful accent in his eyes, a prominent streak in his hair, and on the jacket's detailing. The background is composed of warm, soft yellows and beiges from the sunlight.
-* **Attachments & Gear:** [Hoodie]
-* **Artistic Style:** High-quality modern anime digital illustration. It features clean, precise line art, smooth cel-shading combined with soft gradients for depth, and a high level of detail, particularly in the eyes and hair. The style is reminiscent of contemporary action/fantasy anime series or visual novels.
-* **Lighting:** The scene is lit by a strong, warm, natural light source from a window to the character's right (our left). This creates soft highlights along the right side of his face and hair, and casts gentle shadows across the left side of his body, giving the form dimension.
-* **Composition:** A medium waist-up shot. The character is centered in the frame, commanding the viewer's attention. The background is a simple, slightly out-of-focus bedroom, which provides context without distracting from the subject.
-
-### 💡 Synthesized Prompts & Keywords
-* **Primary Prompt:** `Masterpiece, best quality, 1boy, solo, handsome anime boy with spiky black hair and a prominent red streak, intense red eyes, serious expression, arms crossed, standing in a sunlit bedroom, wearing a white zip-up hoodie with black sleeves and hood, red stripes on sleeves, red triangular logo on chest, black t-shirt, modern anime style, sharp focus, clean lineart, soft lighting from window.`
-* **Alternate Keywords:** `anime protagonist, spiky hair, two-tone hair, black and red hair, red eyes, defiant, confident, arms crossed, hoodie, track jacket, athletic wear, edgy, cool, handsome, shonen`
-* **Style Modifiers:** `light novel cover art, visual novel sprite, key animation frame, cel-shaded, digital painting, style of Ufotable, style of Studio Pierrot, webtoon style, 3D anime render`
-* **Negative Prompts (Optional):** `blurry, jpeg artifacts, poorly drawn, bad anatomy, deformed hands, extra limbs, watermark, text, signature, cartoon, 3D, realistic`
 
 ## [Canvas Riding Geode Scene]
 
@@ -69,3 +47,26 @@
 * **Alternate Keywords:** `elemental beast, crystal golem, geode wolf, sandstone kitsune, magical familiar, earth spirit, colossal mount, crystalline armor, magma eyes, summon`
 * **Style Modifiers:** `photorealistic, fantasy oil painting, 3D character render (Octane), cel shaded, Studio Ghibli style, ink wash, Final Fantasy concept art`
 * **Negative Prompts (Optional):** `deformed, blurry, poorly drawn, extra limbs, disproportionate, cartoon, low resolution, malformed crystals, human face on fox`
+
+## [Canvas Riding Geode Water Scene]
+
+### 🎯 Subject Identification
+* **Subject:** Crystal-Plated Earth Fox
+* **Classification:** Creature
+* **Justification:** The creature's unique fusion of organic fur, geological plating, and crystalline growths makes it the most visually compelling and imaginative element in the scene.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** A massive, rideable elemental fox, blending soft fur with hard, earth-like armor plates and topped with brilliant blue crystals.
+* **Anatomy & Form:** A powerful vulpine physique built for strength and endurance. Features a large head with a strong muzzle, pointed ears, and intense, [Flame Eyes]. The neck and chest are covered in thick, shaggy fur. The back and tail are protected by interlocking, segmented plates resembling stone or ancient carapace. [Crystal Tail].
+* **Material & Texture:** A study in contrasts: soft, dense, off-white/cream-colored fur on the chest and underbelly. The plates on its back and tail have a rough, matte, sandstone-like texture with visible cracks and grain. The vibrant blue crystals are hard, multifaceted, and translucent, appearing to have an inner light. The eyes glow with fiery embers.
+* **Color Palette:** The dominant palette consists of earthy tones: beige, tan, and light brown for the armor plates and fur. This is accented by a brilliant sapphire/cyan blue for the crystals and a fiery, volcanic orange for the glowing eyes and subtle whisker-flames.
+* **Attachments & Gear:** Equipped with functional riding gear, including a simple, sturdy brown leather saddle and a matching harness that fits over its shoulders and around its torso, to which reins are attached.
+* **Artistic Style:** High-detail, modern anime digital illustration. It features clean line art, sophisticated cell shading with soft gradients, and a focus on texture rendering. The style is reminiscent of character/creature concept art for a fantasy JRPG or high-production anime series.
+* **Lighting:** Diffuse ambient daylight, suggesting an open but possibly overcast sky or light filtered through a canyon. The primary light sources are internal to the creature: the bright, emissive glow from its orange eyes and the subtle, translucent glow from within the blue crystals. This creates high-contrast points of interest.
+* **Composition:** A dynamic medium shot focusing on the creature and its rider from a three-quarters profile. The creature is depicted in motion, wading through water, which creates realistic splashes and adds to the sense of a journey.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** masterpiece, best quality, high-detail anime character art of a massive, rideable elemental fox wading through a river, the fox has thick cream-colored fur on its chest, its back and tail are covered in segmented sandstone armor plates, large blue crystals grow from its head and tail, fierce glowing orange eyes, dynamic splash, detailed canyon background, digital painting, sharp focus
+* **Alternate Keywords:** `elemental beast, kitsune, giant fox, earth golem, crystal-infused, sandstone armor, chitinous plates, magical creature, spirit beast, vulpine mount, geode fox`
+* **Style Modifiers:** `fantasy concept art, 3D render, Octane render, watercolor illustration, cel-shaded, ink wash painting, cinematic still, JRPG style`
+* **Negative Prompts (Optional):** `blurry, low-resolution, deformed, extra limbs, poorly drawn, cartoonish, simple, disfigured rider`
