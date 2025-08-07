@@ -17,6 +17,11 @@
 - Buffet of sweets
 - In a beautifully framed picture
 - Skin wet and shiny like rubbed on oil
+- Back is facing us
+
+### Unavailable
+
+- Her breast is bare
 
 ## Canvas and Sera
 
