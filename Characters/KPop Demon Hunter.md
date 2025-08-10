@@ -161,6 +161,29 @@
 * **Style Modifiers:** `Valorant agent splash art, Arknights character art, photorealistic, 3D render, cel-shaded animation, Street Fighter concept art.`
 * **Negative Prompts (Optional):** `static pose, symmetrical, blurry, poorly drawn hands, flat colors, simple shading, long hair, smiling, generic background.`
 
+## [Zoey Blades]
+
+### 🎯 Subject Identification
+* **Subject:** "Crystalline Shard Assassin"
+* **Classification:** [Character]
+* **Justification:** The character is the undeniable focal point, defined by her dynamic pose, the intense light emanating from her hands, and the swirling energy that frames her.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** An agile, shadow-clad assassin wielding daggers made of solidified, brilliant light.
+* **Anatomy & Form:** A young woman with East Asian features. She has a slim, athletic build. Her face is sharp with high cheekbones and a pointed chin. Her hair is jet black, styled into two small top knots (odango) with choppy, uneven bangs framing her face. Her expression is focused and serene, with eyes closed.
+* **Material & Texture:** Her suit appears to be a mix of matte, flexible fabric and semi-gloss, protective plates on the shoulders and arms. Her fingerless gloves have a slight leather-like sheen. The daggers are the most prominent texture: they appear to be crystalline or hard-light constructs, perfectly smooth with razor-sharp edges that fracture and emit brilliant light. The blue trails are ethereal and gaseous, like light-infused smoke.
+* **Color Palette:** A dark, cool palette dominates. The background and her attire are composed of deep indigos, charcoals, and blacks. This is punctuated by brilliant, high-value light sources: the near-white, star-like glow of the daggers, vibrant fuchsia/magenta accents on her chest and gloves, and ethereal streaks of electric blue. Small gold details are present on her wrist/hand guards.
+* **Attachments & Gear:** She wears a form-fitting, dark bodysuit that is partially sleeveless, exposing a shoulder. She has black fingerless gloves or gauntlets with small gold clasps. Her primary gear consists of two glowing, star-shaped daggers or shuriken, held in a ready stance. A glowing magenta emblem is visible on her chest.
+* **Artistic Style:** Stylized digital painting with a painterly yet clean finish. It strongly resembles modern video game concept art or splash art (e.g., *League of Legends*, *Valorant*). The style emphasizes dynamic lighting, expressive forms, and a strong atmospheric mood over photorealism.
+* **Lighting:** The scene is primarily lit by the objects the character is holding. The crystalline daggers act as the key light source, casting a harsh, cool white light onto her hands, arms, and face, creating high-contrast shadows. The magenta emblem on her chest provides a secondary, softer fill light. The blue energy trails contribute to the ambient, ethereal glow.
+* **Composition:** A dynamic medium shot with the character angled towards the viewer. The pose is coiled and full of potential energy, as if she is about to strike or throw the daggers. Swirling blue light trails create leading lines that frame the subject and enhance the sense of motion.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** `digital concept art of an agile female assassin with black hair in double top knots and choppy bangs, wearing a sleek black tactical bodysuit with glowing magenta accents, she holds two luminous crystalline shuriken that emit a brilliant white light, surrounded by ethereal swirls of blue energy, dramatic chiaroscuro lighting, dark fantasy, dynamic pose, in the style of a video game splash art, by Zeronis and WLOP.`
+* **Alternate Keywords:** `ninja, psionic, rogue, k-pop assassin, energy blades, crystalline weapon, starlight daggers, bioluminescent, ethereal, shadowmancer, void, shuriken, kunai, focused, serene intensity, light weaver.`
+* **Style Modifiers:** `anime key visual, character design sheet, cel-shaded, 3D render (Octane), graphic novel art, ink wash painting, Arcane (tv series) style, dynamic splash art.`
+* **Negative Prompts (Optional):** `ugly, deformed, blurry, noisy, static pose, symmetrical, bright daylight, smiling, friendly, photorealistic, cluttered background.`
+
 ## [Mira Hunter]
 
 ### 🎯 Subject Identification
