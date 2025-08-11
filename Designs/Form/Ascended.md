@@ -23,6 +23,29 @@
 * **Style Modifiers:** `style of Final Fantasy VII Remake, Arknights concept art, cinematic key visual, polished anime illustration, high-end gacha game art, Genshin Impact character style`
 * **Negative Prompts (Optional):** `bulky armor, masculine, bearded, happy, smiling, dark hair, photorealistic, messy, cluttered background, medieval`
 
+## [Ascended Berserker Form]
+
+### 🎯 Subject Identification
+* **Subject:** Magma-Core Berserker
+* **Classification:** Character
+* **Justification:** This humanoid figure is the clear and sole subject, characterized by its unique volcanic texture and intense energy.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** A demonic or elemental warrior whose body is formed from cooling, jagged obsidian, barely containing a volatile, molten magma core that seeps through its cracks.
+* **Anatomy & Form:** Exaggerated, hyper-muscular male physique. The form is defined by sharp, aggressive angles. The head is humanoid but features a menacing, almost featureless face plate with glowing eyes. The hair is a large, explosive mass of spiky, crystalline energy.
+* **Material & Texture:** The body appears to be made of jagged, sharp-edged **obsidian** or cooled lava rock. The surface is semi-gloss and uneven, with countless cracks and fissures. Through these cracks, a powerful inner light shines, giving the impression of a **molten magma core**. The "hair" has a dual texture: it looks both like sharp, solid crystals and like a chaotic burst of liquid energy or flame.
+* **Color Palette:** A dark and fiery palette. The dominant color is **charcoal black** or **deep obsidian**. This is interwoven with a vibrant, glowing **hot pink** and **crimson red**. The hair transitions from the hot pink at the base to a deep **magenta** and **purple** at the tips. The background is a stark white, making the colors pop.
+* **Attachments & Gear:** The character's armor appears to be an organic part of its body, like a hardened carapace. It's composed of jagged, layered plates over the torso, shoulders, and waist. A diamond-shaped, glowing pink crystal is embedded in the lower abdomen.
+* **Artistic Style:** High-detail fantasy digital illustration, with strong influences from modern shonen anime/manga (reminiscent of a "super" form like Ultra Instinct or a powerful demon). The style uses high contrast, dynamic energy effects, and clean, sharp rendering. The liquid splash effects around the character add a calligraphic, ink-wash feel to the energy.
+* **Lighting:** The lighting is almost entirely internal and emissive. The intense glow from the magma-filled cracks provides the primary illumination, creating a high-contrast look where the light defines the form from within. The bright white background acts as a powerful fill light, silhouetting the character and making the dark colors appear even richer.
+* **Composition:** A powerful, centered medium portrait. The character is posed symmetrically, facing forward in a display of raw power. Splashes of purple and pink liquid energy frame the upper body, adding dynamic movement to the static pose.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** `masterpiece, ultra-detailed digital painting of a magma-core berserker, hyper-muscular body made of jagged obsidian plates, a molten core of glowing hot pink and crimson magma seeping through cracks in the armor, featureless face with glowing red eyes, a massive explosion of spiky crystalline magenta hair, set against a stark white background with splashes of ink-like energy, dark fantasy, anime style, high contrast`
+* **Alternate Keywords:** `elemental, golem, demon, magma, volcanic, obsidian armor, molten core, crystalline hair, berserker, chaotic energy, internal glow, bio-luminescence, infernal, soulfire`
+* **Style Modifiers:** `anime key visual, video game splash art, dynamic manga panel, 3D render, cel-shaded, ink wash painting, concept art sheet`
+* **Negative Prompts (Optional):** `blurry, soft, smooth, rounded edges, dull colors, poorly lit, deformed, cartoon, simple, low resolution, watermark, text`
+
 ## [Ascended Chaos Form]
 
 ### 🎯 Subject Identification
@@ -45,6 +68,33 @@
 * **Alternate Keywords:** `void terror, living abyss, shadow symbiote, cosmic horror, berserker, untamed energy, astral dreadnought, primordial being, raw power, galaxy core, umbral entity`
 * **Style Modifiers:** `style of battle shonen manga, soulslike boss design, cosmic horror illustration, expressive ink wash, high-energy splash art, abstract horror`
 * **Negative Prompts (Optional):** `calm, static, peaceful, solid body, clean lines, simple, friendly, heroic, fully formed, restrained`
+
+## [Ascended Crimson Form]
+
+### 🎯 Subject Identification
+* **Subject:** Crimson Eclipse Knight
+* **Classification:** Character
+* **Justification:** This god-like figure is the sole, dramatic focus of the image, defined by its powerful physique and striking color-coded design.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** A celestial demigod whose dark, star-dusted body serves as a canvas for asymmetrical bio-armor of bone and crimson crystal, all powered by a miniature sun in his chest.
+* **Anatomy & Form:** A hyper-muscular male physique with heroic, exaggerated proportions. The face is defined by sharp, handsome features and a stern expression. The character's most prominent feature is a massive, wild mane of white hair that flows and billows like a cosmic nebula.
+* **Material & Texture:** The skin is a smooth, matte **charcoal black**. The armor is twofold: the white sections resemble polished, smooth **bone** or porcelain, while the red sections have the sharp, faceted look of **crystalline ruby** or high-tech metallic plating. The glowing chest core is pure, brilliant light. The hair appears soft but voluminous and energetic.
+* **Color Palette:** A vibrant, high-contrast palette of **charcoal black**, **brilliant white**, and **vivid crimson red**. Accents of **ice blue** are used for the glowing eyes, and the background is a **deep navy blue** speckled with stars.
+* **Attachments & Gear:** The subject's armor and adornments appear to be fused with his body.
+    * **Bio-Armor:** An asymmetrical design. The right shoulder and arm are encased in white, bone-like armor. The left shoulder, chest accents, and waist are covered in aggressive, thorny crimson plating. Small red crystal shards are embedded in the white armor on the right arm.
+    * **Energy Core:** A perfectly circular, intensely bright white orb of light is embedded in his sternum, resembling a captive star.
+    * **Hair & Aura:** An immense volume of flowing white hair. A thin red halo floats behind his head, and a larger, wispy blue-and-white energy field emanates from behind his back like spectral wings or an aura.
+    * **Facial Features:** He has glowing ice-blue eyes and a small, red, diamond-shaped gem set into his forehead.
+* **Artistic Style:** High-detail digital illustration in a modern anime/manga aesthetic. The style is reminiscent of splash art for high-production video games or key visuals for an action anime series, characterized by sharp rendering, dynamic forms, and dramatic energy effects.
+* **Lighting:** The primary light source is the overwhelmingly bright energy core in his chest, which casts harsh, brilliant highlights on his pectoral muscles and the surrounding armor. His glowing eyes and the background aura provide secondary, softer illumination. The overall lighting is dramatic and high-contrast against the dark, cosmic background.
+* **Composition:** A centered and powerful medium portrait. The character faces forward, looking slightly down with an intense gaze. The composition is balanced but dynamic, with the explosive hair and background aura creating a strong sense of contained, radiating power.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** `masterpiece, ultra-detailed anime splash art of a celestial demigod, hyper-muscular figure with charcoal black skin, a brilliant white sun-like energy core in his chest, wearing asymmetrical bio-organic armor of crimson red crystal and polished white bone, massive mane of wild flowing white hair, glowing ice-blue eyes, a red halo, cosmic nebula aura, in a star-filled galaxy, dramatic lighting, epic`
+* **Alternate Keywords:** `solar flare, demigod, cosmic entity, astral knight, bio-armor, crystalline armor, bone plating, star core, living light, god-like, divine warrior, galaxy, nebula, asymmetrical design`
+* **Style Modifiers:** `cinematic still, 3D render, octane render, video game concept art, detailed manga panel, Zbrush sculpt, dynamic ink wash`
+* **Negative Prompts (Optional):** `blurry, deformed, poorly drawn, extra limbs, simple, cartoon, low resolution, ugly, watermark, text, signature, jpeg artifacts`
 
 ## [Ascended Dark Form]
 
@@ -91,6 +141,33 @@
 * **Alternate Keywords:** `dark djinn, chaos spirit, shadowmancer, trickster god, sinister grin, spectral cloak, void entity, demonic warlock, genie, soul-eater, magical assassin`
 * **Style Modifiers:** `style of Granblue Fantasy, gacha game UR art, dark fantasy concept art, sinister, malevolent, chaotic, ornate detail, dynamic illustration, book cover art`
 * **Negative Prompts (Optional):** `static, simple, friendly, heroic, solid cloak, realistic, photorealistic, minimal, bright daytime`
+
+## [Ascended Forged Form]
+
+### 🎯 Subject Identification
+* **Subject:** Void-Forged Sentinel
+* **Classification:** Character
+* **Justification:** This humanoid figure is the singular, powerful focus of the artwork, defined by its high-contrast design and intricate details.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** A divine or cosmic warrior whose body is a fusion of darkness and light, encased in ornate, bone-like armor powered by celestial energy.
+* **Anatomy & Form:** A hyper-masculine, heroic build with exaggerated musculature. The head is fully enclosed in a helmet. Long, flowing white hair (or energy tendrils) streams from the head and back. The visible "skin" on the arms, neck, and sides of the torso appears to be a separate, darker substance integrated with the armor.
+* **Material & Texture:** The white armor has the smooth, polished finish of high-gloss porcelain or carved mother-of-pearl. The black elements have a matte, slightly rough texture, reminiscent of obsidian or hardened volcanic rock, with fine white/cyan fissures running through them. The glowing blue elements are crystalline and emanate a soft, internal light (bioluminescence). The white hair/cape is wispy and ethereal, like fine silk or smoke.
+* **Color Palette:** A stark, high-contrast palette. Dominant colors are **pristine white** and **deep charcoal/black**. The sole accent color is a brilliant, glowing **cyan** or **ice blue**.
+* **Attachments & Gear:** The subject is defined by its integrated, ornate armor.
+    * **Helmet:** A full-face plate, smooth and featureless except for the glowing cyan eyes. It is crowned with elegant, swept-back horns and a central, diamond-shaped cyan gem on the forehead.
+    * **Pauldrons:** Large, layered shoulder plates with intricate, baroque-style filigree.
+    * **Cuirass (Chest Armor):** Covers the upper torso and abs, sculpted to accentuate the physique. It features a large, glowing cyan emblem at the sternum and a smaller glowing gem at the navel.
+    * **Tassets (Hip/Waist Armor):** Pointed, decorative plates extend downwards from the waistline.
+* **Artistic Style:** High-detail fantasy digital painting. The style is reminiscent of modern character concept art for video games (like *Genshin Impact* or *Warframe*) or high-production anime/manhwa (like *Solo Leveling*), characterized by clean lines, smooth gradients, and sharp details.
+* **Lighting:** The primary light source is the subject's own internal glow from the cyan gems and eyes, creating a strong bloom effect. This is supplemented by a soft, ambient frontal light that defines the planes of the white armor and musculature. The figure is set against a dark, nebulous background, making the highlights and glows pop dramatically. Wisps of blue-white ethereal smoke float around the character.
+* **Composition:** A powerful, symmetrical medium-shot portrait. The character is centered and faces the viewer directly, conveying a sense of immense power and presence.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** `masterpiece, best quality, ultra-detailed digital painting of a void-forged sentinel, an epic celestial warrior with a hyper-muscular form, wearing ornate polished white porcelain armor with baroque filigree over black obsidian skin that has glowing cyan veins, a full face helmet with swept-back horns and glowing cyan eyes, a large glowing cyan gem on his chest, long flowing ethereal white hair, powerful stance, dramatic internal lighting, dark cosmic background with ethereal smoke, fantasy concept art, style of a Genshin Impact character splash art`
+* **Alternate Keywords:** `celestial, eidolon, divine warrior, cosmic entity, porcelain armor, obsidian skin, soulfire, bioluminescent, glowing crystals, ethereal energy, paladin, seraphim, angelic knight, astral`
+* **Style Modifiers:** `3D render, octane render, Unreal Engine 5, anime key visual, manga splash page, ink wash painting, detailed line art, watercolor illustration, sculpture`
+* **Negative Prompts (Optional):** `blurry, deformed, disfigured, poorly drawn, extra limbs, missing limbs, cartoon, simple, low resolution, watermark, text, signature`
 
 ## [Ascended Guardian Form]
 

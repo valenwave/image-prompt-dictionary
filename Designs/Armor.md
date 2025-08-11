@@ -1,5 +1,32 @@
 # Armor
 
+## [Amethyst Dragoon Armor]
+
+### 🎯 Subject Identification
+* **Subject:** Amethyst Dragoon
+* **Classification:** Character
+* **Justification:** The armored figure is the central subject, whose identity is intrinsically linked with the spectral dragon companion that frames him.
+
+### 🔬 Deconstructed Analysis
+* **Core Concept:** A futuristic cyborg or pilot in advanced powered armor, who channels or is symbiotically bonded with a spectral dragon entity made of violet energy.
+* **Anatomy & Form:** A powerful male humanoid figure encased in a full suit of high-tech armor. The armor is segmented and layered, creating a complex, mechanical silhouette. A large, spectral dragon, composed of both solid-looking scales and ethereal energy, coils around the character's shoulder and background.
+* **Material & Texture:** The armor is primarily made of a dark, semi-matte material resembling **gunmetal gray** or **carbon fiber**. Certain plates have a slight metallic sheen. The glowing elements are vibrant **amethyst purple**, appearing as energy conduits, glowing vents, and a central circular core, all emitting a strong light. The dragon has a texture of sharp, dark scales that dissolve into wispy violet flames and energy.
+* **Color Palette:** A dark, cool palette dominated by **gunmetal grey** and near-black tones. The powerful, singular accent color is a luminous **amethyst purple/violet**. Accents of **silver/white** are present in the character's hair.
+* **Attachments & Gear:** The subject is defined by its integrated systems and companion.
+    * **Powered Armor:** A full-body exoskeleton with intricate, overlapping plates, exposed mechanical joints (visible at the biceps and waist), and fine panel lines.
+    * **Helmet:** A sleek, full-coverage helmet with a dark visor area, accented by glowing purple lights. Spiky, silver-white hair projects from the top.
+    * **Energy Core:** A prominent, circular purple energy core is set into the center of the chest plate.
+    * **Spectral Dragon:** A large draconic entity that appears to be made of energy and shadow. It features a detailed head with glowing purple eyes and a body that transitions from solid scales into ethereal violet flames.
+* **Artistic Style:** High-detail science fiction digital illustration. It strongly evokes the aesthetic of Japanese mecha anime and modern video game concept art (e.g., *Destiny*, *Anthem*), focusing on intricate mechanical design and dynamic energy effects.
+* **Lighting:** The primary light source is internal, originating from the purple energy core, vents, and the spectral dragon. This creates dramatic, colored lighting that casts a violet hue across the armor. A soft, ambient light provides subtle definition to the non-illuminated surfaces. The scene is set against a dark background filled with purple energy clouds, enhancing the glow effects.
+* **Composition:** A dynamic medium shot. The character stands in a confident three-quarter pose, slightly off-center. The dragon's head appears over his left shoulder, creating a balanced and visually engaging S-curve through the composition.
+
+### 💡 Synthesized Prompts & Keywords
+* **Primary Prompt:** `masterpiece, ultra-detailed cinematic shot of an Amethyst Dragoon, a futuristic soldier in sleek gunmetal gray mecha exosuit, intricate mechanical details, a glowing amethyst purple energy core in the chest, purple light emitting from vents, a spectral energy dragon with glowing eyes coils around him, spiky white hair, surrounded by violet ethereal flames, sci-fi concept art, trending on artstation, style of Gundam Iron-Blooded Orphans`
+* **Alternate Keywords:** `mecha, cyborg, powered armor, exosuit, spectral dragon, psionic, void energy, amethyst, gunmetal, carbon fiber, high-tech, futuristic knight, pilot, summoner, technomancer`
+* **Style Modifiers:** `3D render, ZBrush sculpt, octane render, cinematic still, video game splash art, anime key visual, detailed line art, manga cover`
+* **Negative Prompts (Optional):** `fantasy, organic, monster, blurry, deformed, cartoon, simple, low resolution, poorly lit, ugly, disfigured, watermark, text`
+
 ## [God Hero Armor]
 
 ### 🎯 Subject Identification
