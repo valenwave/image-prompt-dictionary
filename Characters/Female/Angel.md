@@ -1,6 +1,6 @@
 # Angel
 
-## Sera
+## [Sera]
 
 ### 🎯 Subject Identification
 * **Subject:** "Sorrowful Seraph"
