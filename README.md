@@ -144,7 +144,7 @@ Point the Knowledge gem to https://github.com/valenwave/image-prompt-dictionary.
 - Grotto
 - Pagoda
 
-## General
+## General Imagen
 
 ### Actions
 
@@ -197,3 +197,25 @@ Point the Knowledge gem to https://github.com/valenwave/image-prompt-dictionary.
 #### Food
 
 - Macaron
+
+### General Veo
+
+#### Dialogue
+
+- How do you become more than just a drop in the ocean?
+- Create something, anything, it doesn't have to be the best. You're trying. You'll get better over time.
+
+#### Lyrics
+
+APT by Rose
+
+```
+Don't you want me like I want you, baby.
+Don't you want me like I need you now?
+```
+
+TAKEDOWN by TWICE
+
+```
+It's a takedown, I'mma take you out. You'll break down like, "What?"
+```
