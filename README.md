@@ -129,6 +129,10 @@ Point the Knowledge gem to https://github.com/valenwave/image-prompt-dictionary.
 - Steel Ring
 - Polished Ring
 
+#### Tokens
+
+- Jade Glass Lotus
+
 ### Features
 
 - Flame Eyes
